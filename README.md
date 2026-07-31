@@ -42,7 +42,7 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 cp .env.example .env
-# edit .env and paste in your Gemma API key (from Google AI Studio)
+# edit .env and paste in your ownGemma API key (from Google AI Studio)
 ```
 
 ### Find your exact model name first — don't guess it
