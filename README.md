@@ -4,15 +4,13 @@
 
 > Built for the *Build with Gemma: AI for Africa* Hackathon (Minna, 2026)
 
-A community health worker describes symptoms — optionally attaching a photo
-— and Gemma 4 returns a structured clinical triage assessment: severity,
+A community health worker describes symptoms, optionally attaching a photo and Gemma 4 returns a structured clinical triage assessment: severity,
 likely conditions, red flags, and a recommended action. The output can be
 translated into Hausa or Yoruba, with an automatic back-translation check to
 catch meaning drift. If a referral is warranted, the system autonomously
 drafts a referral note and schedules a follow-up date, with no further human
 input required.
 
----
 
 ## Why this isn't "just a chat prompt"
 
@@ -93,7 +91,7 @@ ilera/
 
 ## Engineering notes (things that broke, and why the fix was correct)
 
-Built in a one-day sprint, so this section is deliberately honest about
+Built in a one-week sprint, so this section is deliberately honest about
 what went wrong along the way — we think it's more useful to judges than
 pretending it was smooth.
 
