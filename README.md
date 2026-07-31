@@ -62,7 +62,7 @@ built and tested against `gemma-4-31b-it`.
 ## Run
 
 ```bash
-uvicorn app:app --reload --port 8000
+python -m uvicorn app:app --reload --port 8000
 ```
 
 Open **http://localhost:8000** in your browser.
