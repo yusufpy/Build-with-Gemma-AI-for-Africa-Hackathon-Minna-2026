@@ -4,7 +4,7 @@
 
 > Built for the *Build with Gemma: AI for Africa* Hackathon (Minna, 2026)
 
-🔗 **Live demo: [ilera.onrender.com](https://ilera.onrender.com)**
+🔗 **Live demo: [https://ilera-mc67.onrender.com/](https://ilera-mc67.onrender.com/)**
 
 A health worker describes symptoms (and optionally attaches a photo).
 Gemma returns a structured triage assessment — severity, likely conditions,
